@@ -1,0 +1,3 @@
+# Levantar servicios
+cd dockercoins
+docker-compose up
